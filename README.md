@@ -72,4 +72,7 @@ The data represents customer churn records that were used to create the Power BI
 
 ⚠ **Note:** The Excel file contains data exported from PostgreSQL for the dashboard analysis. No SQL query files are included.
 
+## 📝 License
+This project is licensed under the MIT License.
+
 
